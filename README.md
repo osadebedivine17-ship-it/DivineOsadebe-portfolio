@@ -1,2 +1,2 @@
-# DivineOsadebe-portfolio
+index.html
 Assignment
